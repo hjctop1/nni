@@ -1,1 +1,1 @@
-Use github do learn AUTOMI.
+Try in the exploer!
